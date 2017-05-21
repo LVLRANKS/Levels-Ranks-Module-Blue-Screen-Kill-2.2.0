@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"BSK_Off"
+	{
+		"en"			"Blue Screen Kill [off]"
+		"ru"			"Синий Экран Смерти [выкл]"
+	}
+	"BSK_On"
+	{
+		"en"			"Blue Screen Kill [on]"
+		"ru"			"Синий Экран Смерти [вкл]"
+	}
+	"BSK_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Blue Screen Kill [{1} rank]"
+		"ru"			"Синий Экран Смерти [{1} ранг]"
+	}
+}
